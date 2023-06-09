@@ -1,0 +1,47 @@
+h1,h2 {
+  color: black;
+  font-family: Courier;
+}
+
+#Pizza1 {
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: auto;
+}
+
+hr{
+  border: 2px solid black;
+}
+
+#cool{
+  background-color: pink;
+  color: black;
+}
+
+#Pizza3 {
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: auto;
+}
+
+table,tr,th,td, caption {
+  padding: 0.5rem;
+  border-collapse: collapse;
+  font-family: Courier;
+  border: 1px solid green;
+}
+
+figcaption {
+  color: black;
+}
+
+strong {
+  color: red;
+}
+
+#last{
+  background-color: black;
+  color: white;
+}
